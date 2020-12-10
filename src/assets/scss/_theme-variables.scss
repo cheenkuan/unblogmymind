@@ -1,0 +1,35 @@
+// breakpoints
+$breakpoint-sm: 576px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 992px;
+$breakpoint-xl: 1200px;
+
+:root {
+
+	--font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+	--font-family-mono: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
+  --font-size-small: 12px;
+  
+  --primary-color: #283655;
+  --header-bg: #283655;
+
+  --home-link-color: #4d648d; // #A1613F
+  --home-link-hover-color:  var(--primary-color);
+
+  --button-color: #fdfdff;
+  --button-alternate-color: #4d648d;
+
+  --post-link-color: #0F070B;
+
+  --nav-link-hover-bg: #111;
+  --text-color-meta: rgba(0,0,0,0.5);
+
+  --label-text: rgba(0,0,0,0.5);
+  --input-focus-border: #83AAAC;
+  
+  // CSS Grid Utility
+  --grid-gap: 30px; 
+
+}
+// https://digitalsynopsis.com/design/beautiful-color-palettes-combinations-schemes/
+// 12. Blueberry Basket
