@@ -3,7 +3,7 @@
     "title": "unBlogMyMind",
     "titleTemplate": "%s",
     "description": "Gatsby Starter",
-    "siteUrl": "https://gatsbyjs.com",
+    "siteUrl": "https://unblogmymind.netlify.app/",
     "image": "/assets/sunflower.png",
     "iconimage": "/assets/sunflower.png",
     "twitterUsername": "@cheenkuan"
