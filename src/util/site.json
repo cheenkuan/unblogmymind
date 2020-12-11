@@ -2,7 +2,7 @@
   "meta": {
     "title": "unBlogMyMind",
     "titleTemplate": "%s",
-    "description": "Gatsby Starter",
+    "description": "A personal blog built from a Gatsby Starter",
     "siteUrl": "https://unblogmymind.netlify.app/",
     "image": "/assets/sunflower.png",
     "iconimage": "/assets/sunflower.png",
