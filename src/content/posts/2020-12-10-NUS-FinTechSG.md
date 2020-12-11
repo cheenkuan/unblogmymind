@@ -6,7 +6,7 @@ title: "NUS FinTechSG Programme - Same Post as Home Page"
 description: NUS FinTechSG Programme
 featuredImage: /assets/my_zoom_background.png
 ---
-I recently completed the FinTechSG Programme run by the NUS School of Computing FinTech Lab and wanted to share some thoughts on the course from the perspective of a mid-career student. 
+I recently completed the [FinTechSG Programme](https://fintechlab.nus.edu.sg/nus-fintechsg-programme/) run by the NUS School of Computing FinTech Lab and wanted to share some thoughts on the course from the perspective of a mid-career student. 
 
 The entire course was conducted remotely via Zoom over two months. No one will expect otherwise in 2020. I only brought it up because I wanted to use one of my zoom virtual backgrounds with the NUS School of Computing FinTech Lab banner inserted for context as my feature image for this post. If NUS prefers that I do not use the banner, please contact me, and I will discreetly make appropriate editorial changes.
 
