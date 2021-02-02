@@ -2,7 +2,7 @@
 template: blog-post
 slug: /2020-12-10-NUS-FinTechSG
 date: 2020-12-10
-title: "NUS FinTechSG Programme - Same Post as Home Page"
+title: "NUS FinTechSG Programme"
 description: NUS FinTechSG Programme
 featuredImage: /assets/my_zoom_background.png
 ---
