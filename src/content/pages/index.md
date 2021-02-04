@@ -7,6 +7,8 @@ featuredImage: /assets/PaymentSystemDiagram.png
 ---
 In order to understand what Distributed Ledger Technology (DLT) and Cryptocurrencies brings to cross border payments, we must first consider the typical current state of cross border payments without such technologies.
 
+![Cross Border Payment Diagram for Mobile Display](/assets/PaymentSystemDiagram.png)
+
 ### Typical Current State of Cross Border Payments
 
 The diagram above illustrates a typical current state for cross border payments. The Sender who holds Currency A in his bank account with Bank A would like to pay the Recipient in Currency B to the Recipient’s bank account with Bank B. Such payment will typically involve the following sequence of events:
